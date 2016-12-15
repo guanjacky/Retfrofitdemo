@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--只有5.0以上，才可以使用。如果是低版本，需要使用自定义View，通过颜色的绘制，来实现。-->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#F00">
+    <!--TODO 下来自己试-->
+    <item
+        android:id="@+id/xx"
+        android:drawable="@mipmap/ic_launcher"
+        android:height="100dp"
+        android:gravity="left"
+        android:width="100dp"/>
+</ripple>
