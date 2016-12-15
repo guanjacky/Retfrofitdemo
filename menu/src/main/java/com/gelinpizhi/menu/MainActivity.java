@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements Callback<Tngou> {
         ServiceRetrofit retrofit1 = retrofit.create(ServiceRetrofit.class);
         Call<Tngou> list = retrofit1.getList(0, 1, 10);
         list.enqueue(this);
-        //kugiougi
+        //kugiougifyukfy
 
 
 
