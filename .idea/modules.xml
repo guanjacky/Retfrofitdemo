@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Retfrofitdemo.iml" filepath="$PROJECT_DIR$/Retfrofitdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo02/demo02.iml" filepath="$PROJECT_DIR$/demo02/demo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo03/demo03.iml" filepath="$PROJECT_DIR$/demo03/demo03.iml" />
       <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
     </modules>
   </component>

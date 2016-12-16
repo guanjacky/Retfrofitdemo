@@ -8,11 +8,14 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     tools:context="com.gelinpizhi.menu.MainActivity">
-
+<android.support.v4.widget.SwipeRefreshLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/sw_recycle_refash">
     <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/reclycle_menu"/>
-
+</android.support.v4.widget.SwipeRefreshLayout>
 
 </LinearLayout>
